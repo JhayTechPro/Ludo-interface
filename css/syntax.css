@@ -1,0 +1,75 @@
+.joshua{
+    top: 263px;
+    left: 91.4px;
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-left: 50px solid green;
+    border-right: 55px solid transparent;
+    border-bottom: 50px solid transparent; 
+    border-top: 60px transparent;
+    transform: rotate(47.2deg);   
+}
+.joshua-1{
+    top: 151px;
+    left:56.4px ;
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-left: 50px solid blue;
+    border-right: 55px solid transparent;
+    border-bottom: 50px solid transparent; 
+    border-top: 60px transparent;
+    transform: rotate(226.9deg);   
+}
+.joshua-2{
+    top: 190px;
+    left: 131px;
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-left: 50px solid yellow;
+    border-right: 55px solid transparent;
+    border-bottom: 50px solid transparent; 
+    border-top: 60px transparent;
+    transform: rotate(317.9deg);    
+}
+.joshua-3{
+    top: 224px;
+    left: 18px;
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-left: 50px solid red;
+    border-right: 55px solid transparent;
+    border-bottom: 50px solid transparent; 
+    border-top: 60px transparent;
+    transform: rotate(137deg);    
+}
+
+.joshua-4{
+    border: solid 5px black;
+    top: 224px;
+    left: 200px;
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-left: 90px solid red;
+    border-right: 90px solid blue;
+    border-bottom: 90px solid green; 
+    border-top: 90px pink;
+    transform: rotate(137deg);    
+}
+.joshua-5{
+
+    top: 224px;
+    left: 18px;
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-left: 50px solid red;
+    border-right: 55px solid blue;
+    border-bottom: 50px solid transparent; 
+    border-top: 60px transparent;
+    transform: rotate(137deg);    
+}

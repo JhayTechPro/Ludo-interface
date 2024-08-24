@@ -1,0 +1,849 @@
+body{
+    border: solid 7px;
+   background-color: dimgrey;
+    height: 481px;
+    max-width: 530;
+    text-align: center;
+}
+.square-1{
+    width: 157px;
+    height: 134px;
+    margin: 24px;
+    padding: 25px;
+    background-color: #2574c3;
+    border: solid 2px black;
+    position: absolute;
+    top: -2px;
+    left: -6px;
+}
+.square-2{
+    width: 168px;
+    height: 144px;
+    margin: 23px;
+    padding: 20px;
+    background-color: #bc2325;
+    border: solid 2px black;
+    position: absolute;
+    top: -1px;
+    left: 306px;
+}
+
+.square-3{
+    width: 168px;
+    height: 144px;
+    margin: 23px;
+    padding: 20px;
+    background-color: #0a4004;
+    border: solid 2px black;
+    position: absolute;
+    top: 278px;
+    left: 306px;
+}
+
+.square-4{
+    width: 157;
+    height: 134px;
+    margin: 24px;
+    padding: 25px;
+    background-color: #dca409;
+    border: solid 2px black;
+    position: absolute;
+    top: 278px;
+    left: -6px;
+}
+.mini-1{
+    width: 34px;
+    height: 30px;
+    border: solid 1px black;
+    position: absolute;
+    top: 23px;
+    left: 295;
+
+}
+.mini-2{
+    background-color: #bc2325;
+    width: 34px;
+    height: 30px;
+    border: solid 1px black;
+    position: absolute;
+    top: 54px;
+    left: 295;
+
+}
+.mini-3{
+    width: 34px;
+    height: 30px;
+    border: solid 1px black;
+    position: absolute;
+    top: 116px;
+    left: 295;
+
+}
+.mini-4{
+    width: 34px;
+    height: 30px;
+    border: solid 1px black;
+    position: absolute;
+    top: 85px;
+    left: 295;
+
+}
+.mini-5{
+    width: 34px;
+    height: 30px;
+    border: solid 1px black;
+    position: absolute;
+    top: 147px;
+    left: 295;
+
+}
+.mini-6{
+    width: 34px;
+    height: 30px;
+    border: solid 1px black;
+    position: absolute;
+    top: 178px;
+    left: 295;
+
+}
+.mini-7{
+    background-color: #bc2325;
+    width: 34px;
+    height: 30px;
+    border: solid 1px black;
+    position: absolute;
+    top: 178px;
+    left: 261;
+
+}
+.mini-8{
+    background-color: #bc2325;
+    width: 34px;
+    height: 30px;
+    border: solid 1px black;
+    position: absolute;
+    top: 147px;
+    left: 261;
+
+}
+.mini-9{
+    background-color: #bc2325;
+    width: 34px;
+    height: 30px;
+    border: solid 1px black;
+    position: absolute;
+    top: 116px;
+    left: 261;
+
+}
+.mini-10{
+    background-color: #bc2325;
+    width: 34px;
+    height: 30px;
+    border: solid 1px black;
+    position: absolute;
+    top: 85px;
+    left: 261;
+
+}
+.mini-11{
+    background-color: #bc2325;
+    width: 34px;
+    height: 30px;
+    border: solid 1px black;
+    position: absolute;
+    top: 54px;
+    left: 261;
+
+}
+.mini-12{
+    width: 34px;
+    height: 30px;
+    border: solid 1px black;
+    position: absolute;
+    top: 23px;
+    left: 261;
+
+}
+.mini-13{
+    width: 34px;
+    height: 30px;
+    border: solid 1px black;
+    position: absolute;
+    top: 178px;
+    left: 227;
+
+}
+.mini-14{
+    width: 34px;
+    height: 30px;
+    border: solid 1px black;
+    position: absolute;
+    top: 147px;
+    left: 227;
+
+}
+.mini-15{
+    width: 34px;
+    height: 30px;
+    border: solid 1px black;
+    position: absolute;
+    top: 116px;
+    left: 227;
+
+}
+.mini-16{
+    width: 34px;
+    height: 30px;
+    border: solid 1px black;
+    position: absolute;
+    top: 85px;
+    left: 227;
+
+}
+.mini-17{
+    width: 34px;
+    height: 30px;
+    border: solid 1px black;
+    position: absolute;
+    top: 54px;
+    left: 227;
+
+}
+.mini-18{
+    width: 34px;
+    height: 30px;
+    border: solid 1px black;
+    position: absolute;
+    top: 23px;
+    left: 227;
+
+}
+.mini-19{
+    width: 34px;
+    height: 30px;
+    border: solid 1px black;
+    position: absolute;
+    top: 209px;
+    left: 18px;
+
+}
+.mini-20{
+    
+    width: 34px;
+    height: 30px;
+    border: solid 1px black;
+    position: absolute;
+    top: 240px;
+    left: 18px;
+}
+.mini-21{
+    
+    width: 34px;
+    height: 30px;
+    border: solid 1px black;
+    position: absolute;
+    top: 271px;
+    left: 18px;
+}
+ .mini-22{
+   
+    width: 34px;
+    height: 30px;
+    border: solid 1px black;
+    position: absolute;
+    top: 303px;
+    left: 227px
+}
+.mini-23{
+
+   width: 34px;
+    height: 30px;
+    border: solid 1px black;
+    position: absolute;
+    top: 334px;
+    left: 227px;
+}
+.mini-24{
+    width: 34px;
+    height: 30px;
+    border: solid 1px black;
+    position: absolute;
+    top: 365px;
+    left: 228px;
+}
+.mini-25{
+    background-color: #dca409;
+    width: 34px;
+    height: 30px;
+    border: solid 1px black;
+    position: absolute;
+    top: 334px;
+    left: 260px;
+}
+.mini-26{
+    background-color: #dca409;
+   width: 34px;
+    height: 30px;
+    border: solid 1px black;
+    position: absolute;
+    top: 365px;
+    left: 260px;
+}
+.mini-27{
+    background-color: #dca409;
+    width: 34px;
+    height: 30px;
+    border: solid 1px black;
+    position: absolute;
+    top: 303px;
+    left: 260px;
+} 
+.mini-28{
+   
+    width: 34px;
+    height: 30px;
+    border: solid 1px black;
+    position: absolute;
+    top: 271px;
+    left: 53px;
+}
+.mini-29{
+    background-color: #2574c3;
+   width: 34px;
+    height: 30px;
+    border: solid 1px black;
+    position: absolute;
+    top: 240px;
+    left: 53px;
+}
+.mini-30{
+    background-color: #2574c3;
+    width: 34px;
+    height: 30px;
+    border: solid 1px black;
+    position: absolute;
+    top: 209px;
+    left: 53px;
+}
+ .mini-31{
+    
+    width: 34px;
+    height: 30px;
+    border: solid 1px black;
+    position: absolute;
+    top: 209px;
+    left: 88px;
+}
+.mini-32{
+    
+    width: 34px;
+    height: 30px;
+    border: solid 1px black;
+    position: absolute;
+    top: 209px;
+    left: 123px;
+}
+.mini-33{
+    
+   width: 34px;
+    height: 30px;
+    border: solid 1px black;
+    position: absolute;
+    top: 209px;
+    left: 158px;
+}
+.mini-34{
+    
+   width: 34px;
+    height: 30px;
+    border: solid 1px black;
+    position: absolute;
+    top: 209px;
+    left: 193px;
+}
+.mini-35{
+    background-color: #2574c3;
+   width: 34px;
+    height: 30px;
+    border: solid 1px black;
+    position: absolute;
+    top: 240px;
+    left: 88px;
+}
+.mini-36{
+    background-color: #2574c3;
+    width: 34px;
+    height: 30px;
+    border: solid 1px black;
+    position: absolute;
+    top: 240px;
+    left: 123px;
+} 
+.mini-37{
+    background-color: #2574c3;
+    width: 34px;
+    height: 30px;
+    border: solid 1px black;
+    position: absolute;
+    top: 240px;
+    left: 158px;
+} 
+.mini-38{
+    background-color: #2574c3;
+    width: 34px;
+    height: 30px;
+    border: solid 1px black;
+    position: absolute;
+    top: 240px;
+    left: 193px;
+}
+.mini-39{
+    
+    width: 34px;
+    height: 30px;
+    border: solid 1px black;
+    position: absolute;
+    top: 303px;
+    left: 295px;
+}
+.mini-40{
+    
+   width: 34px;
+    height: 30px;
+    border: solid 1px black;
+    position: absolute;
+    top: 334px;
+    left: 295px;
+}
+.mini-41{
+    
+    width: 34px;
+    height: 30px;
+    border: solid 1px black;
+    position: absolute;
+    top: 365px;
+    left: 295px;
+}
+.mini-42{
+    
+   width: 34px;
+    height: 30px;
+    border: solid 1px black;
+    position: absolute;
+    top: 396px;
+    left: 295px;
+}
+.mini-43{
+   
+    width: 34px;
+    height: 30px;
+    border: solid 1px black;
+    position: absolute;
+    top: 427px;
+    left: 295px;
+}
+.mini-44{
+    
+    width: 34px;
+    height: 30px;
+    border: solid 1px black;
+    position: absolute;
+    top: 458px;
+    left: 295px;
+}
+.mini-45{
+    background-color: #dca409;
+    width: 34px;
+    height: 30px;
+    border: solid 1px black;
+    position: absolute;
+    top: 396px;
+    left: 260px;
+}
+.mini-46{
+    background-color: #dca409;
+    width: 34px;
+    height: 30px;
+    border: solid 1px black;
+    position: absolute;
+    top: 427px;
+    left: 260px;
+}
+.mini-47{
+    
+    width: 34px;
+    height: 30px;
+    border: solid 1px black;
+    position: absolute;
+    top: 458px;
+    left: 260px;
+}
+.mini-48{
+    
+    width: 32px;
+    height: 30px;
+    border: solid 1px black;
+    position: absolute;
+    top: 458px;
+    left: 227px;
+}
+
+
+.mini-49{
+    width: 32px;
+    height: 30px;
+    border: solid 1px black;
+    position: absolute;
+    top: 396px;
+    left: 227px;
+}
+.mini-50{
+    background-color: #dca409;
+   width: 31px;
+    height: 30px;
+    border: solid 1px black;
+    position: absolute;
+    top: 427px;
+    left: 228px;
+}
+.mini-51{
+  width: 34px;
+    height: 30px;
+    border: solid 1px black;
+    position: absolute;
+    top: 272px;
+    left: 193px;
+
+}
+.mini-52{
+    
+  width: 34px;
+    height: 30px;
+    border: solid 1px black;
+    position: absolute;
+    top: 272px;
+    left: 88px;
+}
+.mini-53{
+    
+    width: 34px;
+    height: 30px;
+    border: solid 1px black;
+    position: absolute;
+    top: 272px;
+    left: 123px;
+}
+.mini-54{
+    
+    width: 34px;
+    height: 30px;
+    border: solid 1px black;
+    position: absolute;
+    top: 272px;
+    left: 158px;
+}
+
+.mini-55{
+    width: 34px;
+    height: 30px;
+    border: solid 1px black;
+    position: absolute;
+    top: 209px;
+    left: 296px;
+}
+.mini-56{
+   width: 34px;
+    height: 30px;
+    border: solid 1px black;
+    position: absolute;
+    top: 209px;
+    left: 330px;
+
+}
+.mini-57{
+    width: 34px;
+    height: 30px;
+    border: solid 1px black;
+    position: absolute;
+    top: 209px;
+    left: 365px;
+
+}
+.mini-58{
+   width: 34px;
+    height: 30px;
+    border: solid 1px black;
+    position: absolute;
+    top: 209px;
+    left: 400px;
+
+}
+.mini-59{
+ width: 34px;
+    height: 30px;
+    border: solid 1px black;
+    position: absolute;
+    top: 209px;
+    left: 435px;
+
+}
+.mini-60{
+    width: 34px;
+    height: 30px;
+    border: solid 1px black;
+    position: absolute;
+    top: 209px;
+    left: 470px;
+
+}
+.mini-61{
+    width: 34px;
+    height: 30px;
+    border: solid 1px black;
+    position: absolute;
+    top: 209px;
+    left: 505px;
+
+}
+.mini-62{
+    background-color: #0a4004;
+    width: 34px;
+    height: 30px;
+    border: solid 1px black;
+    position: absolute;
+    top: 240px;
+    left: 330px;
+
+}
+.mini-63{
+    background-color: #0a4004;
+    width: 34px;
+    height: 30px;
+    border: solid 1px black;
+    position: absolute;
+    top: 240px;
+    left: 365px;
+
+}
+.mini-55{
+    width: 34px;
+    height: 30px;
+    border: solid 1px black;
+    position: absolute;
+    top: 271px;
+    left: 330px;
+
+}
+.mini-64{
+    background-color: #0a4004;
+    width: 34px;
+    height: 30px;
+    border: solid 1px black;
+    position: absolute;
+    top: 240px;
+    left: 400px;
+
+}
+.mini-65{
+    background-color: #0a4004;
+    width: 34px;
+    height: 30px;
+    border: solid 1px black;
+    position: absolute;
+    top: 240px;
+    left: 435px;
+
+}
+.mini-66{
+    background-color: #0a4004;
+    width: 34px;
+    height: 30px;
+    border: solid 1px black;
+    position: absolute;
+    top: 240px;
+    left: 470px;
+
+}
+.mini-67{
+    width: 34px;
+    height: 30px;
+    border: solid 1px black;
+    position: absolute;
+    top: 240px;
+    left: 505px;
+
+}
+.mini-68{
+    width: 34px;
+    height: 30px;
+    border: solid 1px black;
+    position: absolute;
+    top: 271px;
+    left: 505px;
+
+}
+.mini-69{
+    background-color: #0a4004;
+    width: 34px;
+    height: 30px;
+    border: solid 1px black;
+    position: absolute;
+    top: 271px;
+    left: 470px;
+
+}
+.mini-70{
+    width: 34px;
+    height: 30px;
+    border: solid 1px black;
+    position: absolute;
+    top: 271px;
+    left: 435px;
+
+}
+.mini-71{
+    width: 34px;
+    height: 30px;
+    border: solid 1px black;
+    position: absolute;
+    top: 271px;
+    left: 400px;
+
+}
+.mini-72{
+    width: 34px;
+    height: 30px;
+    border: solid 1px black;
+    position: absolute;
+    top: 271px;
+    left: 365px;
+
+}
+
+
+.yellow{
+    top: 293px;
+    left: 234px;
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-left: 68px solid #dca409;
+    border-right:68px solid transparent;
+    border-bottom: 68px solid transparent; 
+    border-top: 68px transparent;
+    transform: rotate(45deg);   
+}
+.red{
+    top: 151px;
+    left: 186px ;
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-left: 68px solid #bc2325;
+    border-right:68px solid transparent;
+    border-bottom: 68px solid transparent; 
+    border-top: 68px transparent;
+    transform: rotate(225deg);   
+}
+.green{
+    top: 196px;
+    left: 284.5px;
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-left: 69px solid #0a4004;
+    border-right:69px solid transparent;
+    border-bottom: 69px solid transparent; 
+    border-top: 69px transparent;
+    transform: rotate(315deg);    
+}
+.blue{
+    top: 246px;
+    left: 136px;
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-left: 68px solid #2574c3;
+    border-right:68px solid transparent;
+    border-bottom: 68px solid transparent; 
+    border-top: 68px transparent;
+    transform: rotate(134deg);    
+}
+
+.square-1 img{
+    text-align: centre;
+    top: 1px;
+    left: 20px;
+    position: absolute;
+    width: 160px;
+}
+.square-2 img{
+    text-align: centre;
+    top: -3px;
+    left: 20px;
+    position: absolute;
+    width: 160px;
+}
+.square-3 img{
+    text-align: centre;
+    top: 9px;
+    left: 28px;
+    position: absolute;
+    width: 134px;
+}
+.square-4 img{
+    text-align: centre;
+    top: -3px;
+    left: 20px;
+    position: absolute;
+    width: 160px;
+}
+
+.square-1 p{
+position: relative;
+    text-transform: uppercase;
+    font-size: 42PX;
+    font-family: GEORGIA;
+    color: white;
+    top: 72px;
+    left: -1;
+}
+.square-2 p{
+    position: relative;
+        text-transform: uppercase;
+        font-size: 42PX;
+        font-family: GEORGIA;
+        color: white;
+        top: 78px;
+        left: -0;
+    }
+    .square-3 p{
+        position: relative;
+            text-transform: uppercase;
+            font-size: 42PX;
+            font-family: GEORGIA;
+            color: white;
+            top: 78px;
+            left: 1;
+        }
+        .square-4 p{
+            position: relative;
+                text-transform: uppercase;
+                font-size: 42PX;
+                font-family: GEORGIA;
+                color: white;
+                top: 73px;
+                left: -10;
+            }
+
+            @media screen and (max-width: 561px){
+
+                body{
+                    border: solid 7px;
+                   background-color: dimgrey;
+                    height: 481px;
+                    max-width: 500;
+                    text-align: center;
+                }
+                }
